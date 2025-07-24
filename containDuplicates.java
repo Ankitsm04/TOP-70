@@ -1,3 +1,4 @@
+// #1
 // 1 Contains Duplicates in Array
 
 //Aproach 1
